@@ -113,6 +113,11 @@ footer {
     font-size: 1rem; /* Tamanho da fonte */
 }
 
+.link-rodape {
+    text-decoration: none;
+    color: #30475E;
+}
+
 @media (max-width: 768px) {
     h1 {
         font-size: 2rem; /* Tamanho da fonte em telas menores */
